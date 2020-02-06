@@ -6,7 +6,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/myPkg/test1" // import package you created
+	"github.com/Srivenkatesh1995/myPkg/test1" // import package you created
 )
 
 func main() {
